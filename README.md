@@ -1,7 +1,10 @@
-# Aula 72
+## Aula 72
 
-Curso ASP.NET CORE MVC 2
+# Projeto - Aluguel de Carros
 
-Montagem Currículo
+# Projeto do curso ASP NET CORE MVC 2 : Do Básico ao Avançado
 
-Se inscreva no curso - https://www.udemy.com/asp-net-core-mvc-2-do-basico-ao-avancado/?couponCode=GITHUB
+Conheça o curso - [ASP NET CORE MVC 2 : Do Básico ao Avançado](https://bit.ly/netcoremvc2) 
+
+# Conheça nosso canal no Youtube
+Conheça o canal - [Programação binária](https://bit.ly/canalytpor)  
